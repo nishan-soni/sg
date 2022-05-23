@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/sg/static/css/main.60400fd9.css",
+    "main.js": "/sg/static/js/main.b369ec2b.js",
+    "static/js/787.689b5ad9.chunk.js": "/sg/static/js/787.689b5ad9.chunk.js",
+    "static/media/open-sans-all-400-normal.woff": "/sg/static/media/open-sans-all-400-normal.3bc4108fa8f9a72e6ea5.woff",
+    "static/media/raleway-all-200-normal.woff": "/sg/static/media/raleway-all-200-normal.711bf42a68a7875cb431.woff",
+    "static/media/montserrat-all-700-normal.woff": "/sg/static/media/montserrat-all-700-normal.81b48f7ab9882a2f3ea9.woff",
+    "static/media/raleway-latin-200-normal.woff2": "/sg/static/media/raleway-latin-200-normal.eb5976a485ba51aaf68b.woff2",
+    "static/media/open-sans-cyrillic-ext-400-normal.woff2": "/sg/static/media/open-sans-cyrillic-ext-400-normal.acfea1d2352591b09c46.woff2",
+    "static/media/open-sans-latin-400-normal.woff2": "/sg/static/media/open-sans-latin-400-normal.4d140983c7c8c4a8c722.woff2",
+    "static/media/raleway-latin-ext-200-normal.woff2": "/sg/static/media/raleway-latin-ext-200-normal.a05dfb020f5f2eeff4e3.woff2",
+    "static/media/open-sans-latin-ext-400-normal.woff2": "/sg/static/media/open-sans-latin-ext-400-normal.8deeb3884c8ce11a3537.woff2",
+    "static/media/montserrat-latin-700-normal.woff2": "/sg/static/media/montserrat-latin-700-normal.145c46aabb2eccdd1f7b.woff2",
+    "static/media/raleway-cyrillic-ext-200-normal.woff2": "/sg/static/media/raleway-cyrillic-ext-200-normal.7715511b95d9d6254b0e.woff2",
+    "static/media/raleway-cyrillic-200-normal.woff2": "/sg/static/media/raleway-cyrillic-200-normal.4d2c673be8c1505b93c0.woff2",
+    "static/media/montserrat-latin-ext-700-normal.woff2": "/sg/static/media/montserrat-latin-ext-700-normal.8dcff46b0308fde962d3.woff2",
+    "static/media/open-sans-cyrillic-400-normal.woff2": "/sg/static/media/open-sans-cyrillic-400-normal.35d9aa74a5c9697bc38c.woff2",
+    "static/media/montserrat-cyrillic-ext-700-normal.woff2": "/sg/static/media/montserrat-cyrillic-ext-700-normal.5370b49a1a98a228f94d.woff2",
+    "static/media/open-sans-greek-400-normal.woff2": "/sg/static/media/open-sans-greek-400-normal.accce9b81f55c6f4779c.woff2",
+    "static/media/montserrat-cyrillic-700-normal.woff2": "/sg/static/media/montserrat-cyrillic-700-normal.e1cd217d4d3363713684.woff2",
+    "static/media/open-sans-hebrew-400-normal.woff2": "/sg/static/media/open-sans-hebrew-400-normal.608be94da46d7cd7a003.woff2",
+    "static/media/open-sans-vietnamese-400-normal.woff2": "/sg/static/media/open-sans-vietnamese-400-normal.6517a5545bd31eeb4a61.woff2",
+    "static/media/raleway-vietnamese-200-normal.woff2": "/sg/static/media/raleway-vietnamese-200-normal.e698da5b170b2c75f23a.woff2",
+    "static/media/open-sans-greek-ext-400-normal.woff2": "/sg/static/media/open-sans-greek-ext-400-normal.6e872659616d9b8fb28c.woff2",
+    "static/media/montserrat-vietnamese-700-normal.woff2": "/sg/static/media/montserrat-vietnamese-700-normal.4547e4de7e93b63e91c7.woff2",
+    "index.html": "/sg/index.html",
+    "main.60400fd9.css.map": "/sg/static/css/main.60400fd9.css.map",
+    "main.b369ec2b.js.map": "/sg/static/js/main.b369ec2b.js.map",
+    "787.689b5ad9.chunk.js.map": "/sg/static/js/787.689b5ad9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60400fd9.css",
+    "static/js/main.b369ec2b.js"
+  ]
+}
