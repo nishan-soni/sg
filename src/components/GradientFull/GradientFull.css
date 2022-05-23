@@ -1,12 +1,27 @@
 #gradient-full-container {
+  width: 95vw;
+  height: 95vh;
+  z-index: 2;
+  position: fixed;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: white;
+}
+
+@media only screen and (hover: none) and (pointer: coarse) {
+  #gradient-full-container {
     width: 95vw;
-    height: 95vh;
+    height: 80vh;
     z-index: 2;
     position: fixed;
     margin: auto;
-    top: 0; 
-    left: 0; 
-    bottom: 0; 
+    top: 0;
+    left: 0;
+    bottom: 0;
     right: 0;
     background-color: white;
+  }
 }

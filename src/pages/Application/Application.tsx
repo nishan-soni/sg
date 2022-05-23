@@ -49,9 +49,6 @@ const Application = () => {
         data: {
           base64String: reqData,
         },
-        headers: {
-          "Content-Type": "application/json",
-        },
       }).then((response) => {
         generateRGB(response.data);
         setLoading(false);
@@ -65,16 +62,20 @@ const Application = () => {
       <div id="app-title" style={{ marginTop: "2vh" }}>
         <Center>
           <Heading
+            id="app-title"
             fontSize="3.5rem"
             bgGradient={rgbString} //"linear(to-r, #0061ff, #45caff)"
             bgClip="text"
+            marginLeft="5vw"
+            marginRight="5vw"
+            textAlign='center'
           >
             generate a gradient
           </Heading>
         </Center>
         <div>
           <Center>
-            <Text fontSize="1.2rem">
+            <Text fontSize="1.2rem" marginLeft="5vw" marginRight="5vw" textAlign='center'>
               a colour gradient will be generated when you record an audio clip
             </Text>
           </Center>
