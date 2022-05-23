@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sg/static/css/main.60400fd9.css",
-    "main.js": "/sg/static/js/main.b369ec2b.js",
+    "main.js": "/sg/static/js/main.3c092596.js",
     "static/js/787.689b5ad9.chunk.js": "/sg/static/js/787.689b5ad9.chunk.js",
     "static/media/open-sans-all-400-normal.woff": "/sg/static/media/open-sans-all-400-normal.3bc4108fa8f9a72e6ea5.woff",
     "static/media/raleway-all-200-normal.woff": "/sg/static/media/raleway-all-200-normal.711bf42a68a7875cb431.woff",
@@ -26,11 +26,11 @@
     "static/media/montserrat-vietnamese-700-normal.woff2": "/sg/static/media/montserrat-vietnamese-700-normal.4547e4de7e93b63e91c7.woff2",
     "index.html": "/sg/index.html",
     "main.60400fd9.css.map": "/sg/static/css/main.60400fd9.css.map",
-    "main.b369ec2b.js.map": "/sg/static/js/main.b369ec2b.js.map",
+    "main.3c092596.js.map": "/sg/static/js/main.3c092596.js.map",
     "787.689b5ad9.chunk.js.map": "/sg/static/js/787.689b5ad9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60400fd9.css",
-    "static/js/main.b369ec2b.js"
+    "static/js/main.3c092596.js"
   ]
 }
