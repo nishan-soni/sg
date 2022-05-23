@@ -2,7 +2,7 @@
   "name": "sg-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nishan-soni.github.io/sg",
+  "homepage": "https://nishan-soni.github.io/sg/",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.0",
     "@chakra-ui/react": "^2.0.0",
