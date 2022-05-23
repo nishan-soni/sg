@@ -1,0 +1,11 @@
+#gradient-container {
+    margin:auto;
+    margin-top: 2vh;
+    width: 60vw;
+    height: 50vh;
+}
+
+.more-button {
+    margin-top: 2vh;
+    margin-left: 2vh;
+}

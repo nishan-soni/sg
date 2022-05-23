@@ -1,0 +1,9 @@
+#recorder-container {
+    margin-top: 3vh;
+}
+
+#time {
+    color: #40c9ff;
+    text-align: center;
+    width: 4rem;
+}
